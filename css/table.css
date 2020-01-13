@@ -1,0 +1,48 @@
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+    visibility: hidden;
+}
+
+#searchbox{
+    width: 350px;
+    float:right;
+    margin-top: 0px;
+}
+
+.column2 {
+    max-width: 100px;
+    min-width: 100px;
+}
+
+.column3 {
+
+}
+
+.column4 {
+
+}
+
+.column5 {
+    max-width: 150px;
+    min-width: 150px;
+}
+
+.column6 {
+
+}
+
+.column7 {
+
+}
+
+.column8 {
+    max-width: 230px;
+    min-width: 230px;
+    text-align: center;
+}
+
+.columnstatus {
+    max-width: 110px;
+    min-width: 110px;
+}
